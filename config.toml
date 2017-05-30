@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Test Site"
+# theme = "hugo-uno"
+theme = "docdock"
+
+[params]
+noHomeIcon = true
+noSearch = false 
+showVisitedLinks = false
+unfoldedMenus = ["start"]
+
