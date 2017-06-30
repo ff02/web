@@ -9,13 +9,13 @@ title = "Openstack"
 creatordisplayname = "ff02"
 
 # Creator's Email
-creatoremail = "ff02@gmail.com"
+# creatoremail = "ff02@gmail.com"
 
 # LastModifier's Display name
 lastmodifierdisplayname = "ff02"
 
 # LastModifier's Email
-lastmodifieremail = "ff02@gmail.com"
+# lastmodifieremail = "ff02@gmail.com"
 
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
