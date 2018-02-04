@@ -1,13 +1,20 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Site title"
 theme = "docdock"
 
 [params]
-noHomeIcon = true
-noSearch = true
 showVisitedLinks = false
 #unfoldedMenus = ["start"]
 sectionPagesMenu = "main"
 
+themeStyle = "flex" # "original" or "flex" # default "flex"
+themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+
+disableHomeIcon = true # default is false
+disableSearch = true # default is false
+disableNavChevron = true # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
 
