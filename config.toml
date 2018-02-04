@@ -1,12 +1,13 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Test Site"
-# theme = "hugo-uno"
+title = "My New Hugo Site"
 theme = "docdock"
 
 [params]
 noHomeIcon = true
-noSearch = false 
+noSearch = true
 showVisitedLinks = false
-unfoldedMenus = ["start"]
+#unfoldedMenus = ["start"]
+sectionPagesMenu = "main"
+
 
