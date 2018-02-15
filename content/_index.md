@@ -5,6 +5,6 @@ title = "Home"
 
 +++
 
-Homepage text
+## Random project notes
 
 

@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Site title"
+title = ".:ff02:. Random project notes"
 theme = "docdock"
 
 [params]
